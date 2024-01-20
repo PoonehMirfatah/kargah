@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(0, 213, 255);
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  
+  
+  table {
+    width:400px;
+    
+    margin:25px 0;
+    font-size:0.9em;
+   }
+  
+  th {
+    background-color:aquamarine;
+      border:1px solid black;
+      padding:20px;
+      text-align:left;
+      font-weight:bold;
+    }
+    table th,td{
+      border:1px solid #000000;
+    }
