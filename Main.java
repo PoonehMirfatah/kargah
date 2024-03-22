@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 import java.time.chrono.ChronoLocalDate;
 import java.util.ArrayList;
-
+//2 com
 public class Main {
     public static void main(String[] args) {
         Admin.getAdmin("َAli Gloi","09133218088");
