@@ -24,4 +24,5 @@ class Name {
     }
 ediiiiie
     2nd ediiit
+    3d ediit
 }
